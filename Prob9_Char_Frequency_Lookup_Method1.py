@@ -1,4 +1,5 @@
 #ascii value of a=97,b=98,c=99......z=122, Therefore It has a constraint Hence we used the Hashing approach
+#Only valid for small alphabets
 
 s='azyxyyzaaaa'
 q=['d','a','y','x']
