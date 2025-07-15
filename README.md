@@ -20,7 +20,9 @@
 | 16 | Print Numbers from 1 to N Using Recursion | Recursion, Head Calls | [Prob14_Recursion_Print_1_to_N.py](Prob14_Recursion_Print_1_to_N.py) |
 | 17 | Print X N Times Using Recursion | Recursion, Parameters        | [Prob15_Recursion_Print_X_N_Times.py](Prob15_Recursion_Print_X_N_Times.py) |
 | 18 | Print Numbers from 1 to N Using Recursion | Recursion, Tail Calls | [Prob16_Recursion_Print_1_to_N.py](Prob16_Recursion_Print_1_to_N_Tail) |
-| 19 | Print Numbers from N to 1 Using Recursion | Recursion, Head Call | [Prob16_Recursion_Print_N_to_1.py](Prob16_Recursion_Print_N_to_1.py) |
+| 19 | Print Numbers from N to 1 Using Recursion | Recursion, Head Call | [Prob16_Recursion_Print_N_to_1.py](Prob17_Recursion_Print_N_to_1.py) |
+| 20 | Sum of Cubes from 1 to N Using Recursion | Recursion, Math Logic | [Prob17_Recursion_Sum_Of_Cubes.py](Prob18_Recursion_Sum_Of_Cubes.py) |
+
 
 
 
