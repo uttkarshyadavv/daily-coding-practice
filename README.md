@@ -13,6 +13,8 @@
 | 9  | Prime Number Check          | Primes, Loops               | [Prob6_Prime_Number.py](Prob6_Prime_Number.py) |
 | 10 | Frequency Lookup - Method 1 | Hashing Array, Fixed Range  | [Prob8_Hashing_Frequency_Method1.py](Prob8_Hashing_Frequency_Method1.py) |
 | 11 | Frequency Lookup - Method 2 | Dictionary, Generalized     | [Prob8_Hashing_Frequency_Method2.py](Prob8_Hashing_Frequency_Method2.py) |
+| 12 | Char Frequency Lookup - Method 1 | Strings, Hashing Array      | [Prob9_Char_Frequency_Lookup_Method1.py](Prob9_Char_Frequency_Lookup_Method1.py) |
+
 
 ## 🚀 Why This Repo?
 - ✅ Build daily discipline in coding
