@@ -38,7 +38,7 @@
 | 34  | Selection Sort - Method 2 (Descending)                   | [Prob26_Method2_Selection_Sort_Descending.py](Prob26_Method2_Selection_Sort_Descending.py) |
 | 35  | Bubble Sort                                               | [Prob27_Bubble_Sort.py](Prob27_Bubble_Sort.py) |
 | 36  | Insertion Sort                                            | [Prob28_Insertion_Sort.py](Prob28_Insertion_Sort.py) |
-| 37  | Merge Two Sorted Arrays - Method 3 (With Duplicates)     | [Prob29_Merge_Two_Sorted_Arrays_Method3.py](Prob29_Merge_Two_Sorted_Arrays_Method3.py)
+| 37  | Merge Two Sorted Arrays                                   | [Prob29_Merge_Two_Sorted_Arrays_Method3.py](Prob29_Merge_Two_Sorted_Arrays.py)
 
 
 
