@@ -39,7 +39,9 @@
 | 35  | Bubble Sort                                               | [Prob27_Bubble_Sort.py](Prob27_Bubble_Sort.py) |
 | 36  | Insertion Sort                                            | [Prob28_Insertion_Sort.py](Prob28_Insertion_Sort.py) |
 | 37  | Merge Two Sorted Arrays                                   | [Prob29_Merge_Two_Sorted_Arrays.py](Prob29_Merge_Two_Sorted_Arrays.py) |
-| 38  | Merge Sort                                   | [Prob30_Merge_Sort.py](Prob30_Merge_Sort.py)
+| 38  | Merge Sort                                   | [Prob30_Merge_Sort.py](Prob30_Merge_Sort.py) |
+| 39  | Check If Array is Sorted (Sign Pattern Method)           | [Prob30_Check_If_Sorted_Using_Sign_Method.py](Prob30_Check_If_Sorted_Using_Sign_Method.py) |
+
 
 
 
