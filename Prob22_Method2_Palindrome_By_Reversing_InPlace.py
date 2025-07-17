@@ -10,6 +10,6 @@ def rev(s, left, right):
 rev(s, 0, len(s) - 1)
 
 if ''.join(s) == original:
-    print("Palindrome ✅")
+    print("Palindrome")
 else:
-    print("Not a palindrome ❌")
+    print("Not a palindrome")
