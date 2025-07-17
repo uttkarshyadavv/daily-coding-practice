@@ -26,7 +26,9 @@
 | 22  | Recursion - Sum of Cubes                                  | [Prob18_Recursion_Sum_Of_Cubes.py](Prob18_Recursion_Sum_Of_Cubes.py) |
 | 23  | Sum of First N Natural Numbers using Recursion            | [Prob19_Sum_Using_Recursion.py](Prob19_Sum_Using_Recursion.py) |
 | 24  | Factorial using Recursion                                 | [Prob20_Factorial_Using_Recursion.py](Prob20_Factorial_Using_Recursion.py) |
-| 25  | Reverse an Array using Recursion                          | [Prob21_Reverse_Array_Using_Recursion.py](Prob21_Reverse_Array_Using_Recursion.py) |
+| 25  | Reverse an Array using Recursion - Method 1              | [Prob21_Reverse_Array_Using_Recursion.py](Prob21_Reverse_Array_Using_Recursion.py) |
+| 26  | Reverse an Array using Recursion - Method 2 (In-Place)   | [Prob21_Method2_Reverse_Array_InPlace.py](Prob21_Method2_Reverse_Array_InPlace.py) |
+
 
 
 
