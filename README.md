@@ -41,6 +41,8 @@
 | 37  | Merge Two Sorted Arrays                                   | [Prob29_Merge_Two_Sorted_Arrays.py](Prob29_Merge_Two_Sorted_Arrays.py) |
 | 38  | Merge Sort                                   | [Prob30_Merge_Sort.py](Prob30_Merge_Sort.py) |
 | 39  | Check If Array is Sorted (Sign Pattern Method)           | [Prob30_Check_If_Sorted_Using_Sign_Method.py](Prob30_Check_If_Sorted_Using_Sign_Method.py) |
+| 40  | Remove Duplicates from Sorted Array                       | [Prob31_Remove_Duplicates_From_Sorted_Array.py](Prob31_Remove_Duplicates_From_Sorted_Array.py) |
+
 
 
 
