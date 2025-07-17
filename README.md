@@ -25,6 +25,8 @@
 | 17  | Recursion - Print N to 1                                  | [Prob17_Recursion_Print_N_to_1.py](Prob17_Recursion_Print_N_to_1.py) |
 | 18  | Recursion - Sum of Cubes                                  | [Prob18_Recursion_Sum_Of_Cubes.py](Prob18_Recursion_Sum_Of_Cubes.py) |
 | 19  | Sum of First N Natural Numbers using Recursion            | [Prob19_Sum_Using_Recursion.py](Prob19_Sum_Using_Recursion.py) |
+| 22  | Factorial using Recursion                                 | [Prob20_Factorial_Using_Recursion.py](Prob20_Factorial_Using_Recursion.py) |
+
 
 
 
