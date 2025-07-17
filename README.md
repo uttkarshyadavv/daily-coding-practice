@@ -29,6 +29,8 @@
 | 25  | Reverse an Array using Recursion - Method 1              | [Prob21_Reverse_Array_Using_Recursion.py](Prob21_Reverse_Array_Using_Recursion.py) |
 | 26  | Reverse an Array using Recursion - Method 2 (In-Place)   | [Prob21_Method2_Reverse_Array_InPlace.py](Prob21_Method2_Reverse_Array_InPlace.py) |
 | 27  | Check if a String is a Palindrome                         | [Prob22_Palindrome_String.py](Prob22_Palindrome_String.py) |
+| 28  | Palindrome Check using In-place Reverse (Method 2)        | [Prob22_Method2_Palindrome_By_Reversing_InPlace.py](Prob22_Method2_Palindrome_By_Reversing_InPlace.py) |
+
 
 
 
