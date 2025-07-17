@@ -34,7 +34,9 @@
 | 30  | Reverse Subarray using Two-Pointer Technique              | [Prob23_Reverse_Subarray_TwoPointer.py](Prob23_Reverse_Subarray_TwoPointer.py) |
 | 31  | Generate Fibonacci Series using Custom Recursive Params   | [Prob24_Fibonacci_Recursive_CustomParams.py](Prob24_Fibonacci_Recursive_CustomParams.py) |
 | 32  | Return Nth Fibonacci Number using Recursion               | [Prob25_Fibonacci_ReturnNth.py](Prob25_Fibonacci_ReturnNth.py) |
-| 33  | Selection Sort                                            | [Prob26_Selection_Sort.py](Prob26_Selection_Sort.py) |
+| 33  | Selection Sort - Method 1 (Ascending)                    | [Prob26_Selection_Sort.py](Prob26_Selection_Sort.py) |
+| 33  | Selection Sort - Method 2 (Descending)                   | [Prob26_Method2_Selection_Sort_Descending.py](Prob26_Method2_Selection_Sort_Descending.py) |
+
 
 
 
