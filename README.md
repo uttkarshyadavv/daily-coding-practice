@@ -33,6 +33,8 @@
 | 29 | Palindrome Check using Recursion + Two Pointers (Method 3)| [Prob22_Method3_Palindrome_Recursive_TwoPointer.py](Prob22_Method3_Palindrome_Recursive_TwoPointer.py) |
 | 30  | Reverse Subarray using Two-Pointer Technique              | [Prob23_Reverse_Subarray_TwoPointer.py](Prob23_Reverse_Subarray_TwoPointer.py) |
 | 31  | Generate Fibonacci Series using Custom Recursive Params   | [Prob24_Fibonacci_Recursive_CustomParams.py](Prob24_Fibonacci_Recursive_CustomParams.py) |
+| 32  | Return Nth Fibonacci Number using Recursion               | [Prob25_Fibonacci_ReturnNth.py](Prob25_Fibonacci_ReturnNth.py) |
+
 
 
 
