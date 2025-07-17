@@ -28,6 +28,8 @@
 | 24  | Factorial using Recursion                                 | [Prob20_Factorial_Using_Recursion.py](Prob20_Factorial_Using_Recursion.py) |
 | 25  | Reverse an Array using Recursion - Method 1              | [Prob21_Reverse_Array_Using_Recursion.py](Prob21_Reverse_Array_Using_Recursion.py) |
 | 26  | Reverse an Array using Recursion - Method 2 (In-Place)   | [Prob21_Method2_Reverse_Array_InPlace.py](Prob21_Method2_Reverse_Array_InPlace.py) |
+| 27  | Check if a String is a Palindrome                         | [Prob22_Palindrome_String.py](Prob22_Palindrome_String.py) |
+
 
 
 
