@@ -30,7 +30,10 @@
 | 26  | Reverse an Array using Recursion - Method 2 (In-Place)   | [Prob21_Method2_Reverse_Array_InPlace.py](Prob21_Method2_Reverse_Array_InPlace.py) |
 | 27  | Check if a String is a Palindrome                         | [Prob22_Palindrome_String.py](Prob22_Palindrome_String.py) |
 | 28  | Palindrome Check using In-place Reverse (Method 2)        | [Prob22_Method2_Palindrome_By_Reversing_InPlace.py](Prob22_Method2_Palindrome_By_Reversing_InPlace.py) |
-| 29  | Reverse Subarray using Two-Pointer Technique              | [Prob23_Reverse_Subarray_TwoPointer.py](Prob23_Reverse_Subarray_TwoPointer.py) |
+| 29 | Palindrome Check using Recursion + Two Pointers (Method 3)| [Prob22_Method3_Palindrome_Recursive_TwoPointer.py](Prob22_Method3_Palindrome_Recursive_TwoPointer.py) |
+| 30  | Reverse Subarray using Two-Pointer Technique              | [Prob23_Reverse_Subarray_TwoPointer.py](Prob23_Reverse_Subarray_TwoPointer.py) |
+
+
 
 
 
