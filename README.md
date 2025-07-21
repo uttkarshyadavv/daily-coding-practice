@@ -48,6 +48,7 @@
 | 44 | Find Largest and Second Largest | [Prob44_Largest_SecondLargest_onepass.py](./Prob44_Largest_SecondLargest_onepass.py) | Arrays |
 | 45 | Rotate Array One Step to the Right | [Prob45_RotateArray_Right_InPlace.py](./Prob45_RotateArray_Right_InPlace.py) | Arrays |
 | 46 | Rotate Array One Step to the Right | [Prob46_RotateArray_Right_ManualShift.py](./Prob46_RotateArray_Right_ManualShift.py) | Arrays |
+| 47 | Move Zeroes to End | [Prob47_MoveZeroesToEnd.py](./Prob47_MoveZeroesToEnd.py) | Arrays |
 
 
 
