@@ -55,6 +55,8 @@
 | 51 | Majority Element | [Prob51_MajorityElement_FrequencyCount.py](./Prob51_MajorityElement_FrequencyCount.py) | Hashing |
 | 52 | Majority Element | [Prob52_MajorityElement_SortCount.py](./Prob52_MajorityElement_SortCount.py) | Sorting, Hashing |
 | 53 | Rearrange Array Alternating Positive and Negative | [Prob53_AlternatePositiveNegative.py](./Prob53_AlternatePositiveNegative.py) | Arrays |
+| 54 | Best Time to Buy and Sell Stock | [Prob54_StockBuySell_MaxProfit.py](./Prob54_StockBuySell_MaxProfit.py) | Arrays, Greedy |
+
 
 
 
