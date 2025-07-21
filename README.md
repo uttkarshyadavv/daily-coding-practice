@@ -43,7 +43,9 @@
 | 39  | Check If Array is Sorted (Sign Pattern Method)           | [Prob30_Check_If_Sorted_Using_Sign_Method.py](Prob30_Check_If_Sorted_Using_Sign_Method.py) |
 | 40  | Remove Duplicates from Sorted Array                       | [Prob31_Remove_Duplicates_From_Sorted_Array.py](Prob31_Remove_Duplicates_From_Sorted_Array.py) |
 | 41 | Missing Number | [Prob32_Missing_Number_LinearScan.py](Prob32_Missing_Number_LinearScan.py) |
-| 42 | Find Largest and Second Largest | [Prob42_Largest_SecondLargest.py](./Prob42_Largest_SecondLargest.py) | Arrays |
+| 42 | Find Largest and Second Largest | [Prob42_Largest_SecondLargest.py](./Prob42_Largest_SecondLargest.py) |
+| 43 | Find Largest and Second Largest Two Pass | [Prob43_Largest_SecondLargest_TwoPass.py](./Prob43_Largest_SecondLargest_TwoPass.py) | Arrays |
+
 
 
 
