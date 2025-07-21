@@ -51,6 +51,8 @@
 | 47 | Move Zeroes to End | [Prob47_MoveZeroesToEnd.py](./Prob47_MoveZeroesToEnd.py) | Arrays |
 | 48 | Max Consecutive 1s | [Prob48_MaxConsecutiveOnes.py](./Prob48_MaxConsecutiveOnes.py) | Arrays |
 | 49 | Two Sum | [Prob49_TwoSum_SinglePair.py](Prob49_TwoSum_SinglePair.py) | Arrays |
+| 50 | Sort an array of 0's, 1's and 2's | [Prob50Sort_an_array_of0's1'sand2's.py](./Prob50Sort_an_array_of0's1'sand2's.py) | Arrays, Sorting |
+
 
 
 
