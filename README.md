@@ -50,7 +50,7 @@
 | 46 | Rotate Array One Step to the Right | [Prob46_RotateArray_Right_ManualShift.py](./Prob46_RotateArray_Right_ManualShift.py) | Arrays |
 | 47 | Move Zeroes to End | [Prob47_MoveZeroesToEnd.py](./Prob47_MoveZeroesToEnd.py) | Arrays |
 | 48 | Max Consecutive 1s | [Prob48_MaxConsecutiveOnes.py](./Prob48_MaxConsecutiveOnes.py) | Arrays |
-| 50 | Two Sum | [Prob50_TwoSum_SinglePair.py](./Prob50_TwoSum_SinglePair.py) | Arrays |
+| 49 | Two Sum | [Prob49_TwoSum_SinglePair.py](Prob49_TwoSum_SinglePair.py) | Arrays |
 
 
 
