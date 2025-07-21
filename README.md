@@ -54,6 +54,8 @@
 | 50 | Sort an array of 0's, 1's and 2's | [Prob50Sort_an_array_of0's1'sand2's.py](./Prob50Sort_an_array_of0's1'sand2's.py) | Arrays, Sorting |
 | 51 | Majority Element | [Prob51_MajorityElement_FrequencyCount.py](./Prob51_MajorityElement_FrequencyCount.py) | Hashing |
 | 52 | Majority Element | [Prob52_MajorityElement_SortCount.py](./Prob52_MajorityElement_SortCount.py) | Sorting, Hashing |
+| 53 | Rearrange Array Alternating Positive and Negative | [Prob53_AlternatePositiveNegative.py](./Prob53_AlternatePositiveNegative.py) | Arrays |
+
 
 
 
