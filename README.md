@@ -71,7 +71,9 @@
 | 67 | 3Sum (Unique Triplets Summing to 0) | [Prob67_Three_Sum_HashSet.py](Prob67_Three_Sum_HashSet.py) | Hashing + Two Loop |
 | 68 | 3Sum (Brute Force, While Loop) | [Prob68_Three_Sum_BruteForce.py](Prob68_Three_Sum_BruteForce.py) | Triple Loop (Manual Indexing) |
 | 69 | Binary Search | [Prob69_Binary_Search_Method1.py](./Prob69_Binary_Search_Method1.py) | Binary Search |
-| 70 | Binary Search (Recursive) | [Prob70_Binary_Search_Method2.py](./Prob70_Binary_Search_Method2.py) | Binary Search | `O(log n)` |
+| 70 | Binary Search (Recursive) | [Prob70_Binary_Search_Method2.py](./Prob70_Binary_Search_Method2.py) | Binary Search |
+| 71 | Lower Bound using Binary Search | [Prob71_Lower_Bound_BinarySearch.py](./Prob71_Lower_Bound_BinarySearch.py) | Binary Search | `O(log n)` |
+
 
 
 
