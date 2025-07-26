@@ -63,6 +63,8 @@
 | 59 | Rearrange Positive and Negative Numbers Alternately | [Prob59_Alternate_Positive_Negative.py](Prob59_Alternate_Positive_Negative.py) | Two Pointer |
 | 60 | Print Upper Triangle of Matrix | [Prob60_Print_Upper_Triangle_Matrix.py](Prob60_Print_Upper_Triangle_Matrix.py) | Matrix Traversal |
 | 61 | Print Lower Triangle of Matrix | [Prob61_Print_Lower_Triangle_Matrix.py](Prob61_Print_Lower_Triangle_Matrix.py) | Matrix Traversal |
+| 62 | Print Main Diagonal of Matrix | [Prob62_Print_Main_Diagonal_Matrix.py](Prob62_Print_Main_Diagonal_Matrix.py) | Matrix Traversal |
+
 
 
 
