@@ -56,7 +56,7 @@
 | 52 | Majority Element | [Prob52_MajorityElement_SortCount.py](./Prob52_MajorityElement_SortCount.py) |
 | 53 | Rearrange Array Alternating Positive and Negative | [Prob53_AlternatePositiveNegative.py](./Prob53_AlternatePositiveNegative.py) |
 | 54 | Best Time to Buy and Sell Stock | [Prob54_StockBuySell_MaxProfit.py](./Prob54_StockBuySell_MaxProfit.py) |
-| 55 | Leaders in an Array | Two Pointer | [Prob55_Leaders_in_an_Array_TwoPointer.py](Codes/Prob55_Leaders_in_an_Array_TwoPointer.py) |
+| 55 | Leaders in an Array | [Prob55_Leaders_in_an_Array_TwoPointer.py](Codes/Prob55_Leaders_in_an_Array_TwoPointer.py) |
 
 
 
