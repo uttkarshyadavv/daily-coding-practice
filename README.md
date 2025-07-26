@@ -57,6 +57,8 @@
 | 53 | Rearrange Array Alternating Positive and Negative | [Prob53_AlternatePositiveNegative.py](./Prob53_AlternatePositiveNegative.py) |
 | 54 | Best Time to Buy and Sell Stock | [Prob54_StockBuySell_MaxProfit.py](./Prob54_StockBuySell_MaxProfit.py) |
 | 55 | Leaders in an Array | [Prob55_Leaders_in_an_Array_TwoPointer.py](./Prob55_Leaders_in_an_Array_TwoPointer.py) |
+| 56 | Maximum Subarray Sum | [Prob56_Maximum_Subarray_Sum_BruteForce.py](./Prob56_Maximum_Subarray_Sum_BruteForce.py) | Brute Force |
+
 
 
 
