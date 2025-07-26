@@ -65,6 +65,8 @@
 | 61 | Print Lower Triangle of Matrix | [Prob61_Print_Lower_Triangle_Matrix.py](Prob61_Print_Lower_Triangle_Matrix.py) | Matrix Traversal |
 | 62 | Print Main Diagonal of Matrix | [Prob62_Print_Main_Diagonal_Matrix.py](Prob62_Print_Main_Diagonal_Matrix.py) | Matrix Traversal |
 | 63 | Transpose of Matrix | [Prob63_Transpose_Of_Matrix.py](Prob63_Transpose_Of_Matrix.py) | Matrix Manipulation |
+| 64 | Set Matrix Zeroes | [Prob64_Set_Matrix_Zeroes.py](Prob64_Set_Matrix_Zeroes.py) | Matrix Manipulation |
+
 
 
 
