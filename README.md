@@ -52,10 +52,12 @@
 | 48 | Max Consecutive 1s | [Prob48_MaxConsecutiveOnes.py](./Prob48_MaxConsecutiveOnes.py) | Arrays |
 | 49 | Two Sum | [Prob49_TwoSum_SinglePair.py](Prob49_TwoSum_SinglePair.py) | Arrays |
 | 50 | Sort an array of 0's, 1's and 2's | [Prob50Sort_an_array_of0's1'sand2's.py](./Prob50Sort_an_array_of0's1'sand2's.py) | Arrays, Sorting |
-| 51 | Majority Element | [Prob51_MajorityElement_FrequencyCount.py](./Prob51_MajorityElement_FrequencyCount.py) | Hashing |
-| 52 | Majority Element | [Prob52_MajorityElement_SortCount.py](./Prob52_MajorityElement_SortCount.py) | Sorting, Hashing |
-| 53 | Rearrange Array Alternating Positive and Negative | [Prob53_AlternatePositiveNegative.py](./Prob53_AlternatePositiveNegative.py) | Arrays |
-| 54 | Best Time to Buy and Sell Stock | [Prob54_StockBuySell_MaxProfit.py](./Prob54_StockBuySell_MaxProfit.py) | Arrays, Greedy |
+| 51 | Majority Element | [Prob51_MajorityElement_FrequencyCount.py](./Prob51_MajorityElement_FrequencyCount.py) |
+| 52 | Majority Element | [Prob52_MajorityElement_SortCount.py](./Prob52_MajorityElement_SortCount.py) |
+| 53 | Rearrange Array Alternating Positive and Negative | [Prob53_AlternatePositiveNegative.py](./Prob53_AlternatePositiveNegative.py) |
+| 54 | Best Time to Buy and Sell Stock | [Prob54_StockBuySell_MaxProfit.py](./Prob54_StockBuySell_MaxProfit.py) |
+| 55 | Leaders in an Array | Two Pointer | [Prob55_Leaders_in_an_Array_TwoPointer.py](Codes/Prob55_Leaders_in_an_Array_TwoPointer.py) |
+
 
 
 
