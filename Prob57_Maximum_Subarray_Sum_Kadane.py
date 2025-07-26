@@ -11,4 +11,4 @@ for i in range(n):
     elif total > maxi:
         maxi = total
 
-print(maxi)  # Output: 6
+print(maxi)
