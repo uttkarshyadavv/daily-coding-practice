@@ -61,6 +61,7 @@
 | 57 | Maximum Subarray Sum | [Prob57_Maximum_Subarray_Sum_Kadane.py](Prob57_Maximum_Subarray_Sum_Kadane.py) | Kadane’s Algorithm |
 | 58 | Best Time to Buy and Sell Stock | [Prob58_Best_Time_To_Buy_And_Sell_Stock.py](Prob58_Best_Time_To_Buy_And_Sell_Stock.py) | One Pass |
 | 59 | Rearrange Positive and Negative Numbers Alternately | [Prob59_Alternate_Positive_Negative.py](Prob59_Alternate_Positive_Negative.py) | Two Pointer |
+| 60 | Print Upper Triangle of Matrix | [Prob60_Print_Upper_Triangle_Matrix.py](Prob60_Print_Upper_Triangle_Matrix.py) | Matrix Traversal |
 
 
 
