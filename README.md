@@ -69,6 +69,8 @@
 | 65 | Set Matrix Zeroes (with Row/Column Tracking) | [Prob65_Set_Matrix_Zeroes_Tracking.py](Prob65_Set_Matrix_Zeroes_Tracking.py) | Matrix + Extra Space |
 | 66 | Rotate Matrix 90 Degrees Clockwise | [Prob66_Rotate_Matrix_90_Clockwise.py](Prob66_Rotate_Matrix_90_Clockwise.py) | Matrix Rotation |
 | 67 | 3Sum (Unique Triplets Summing to 0) | [Prob67_Three_Sum_HashSet.py](Prob67_Three_Sum_HashSet.py) | Hashing + Two Loop |
+| 68 | 3Sum (Brute Force, While Loop) | [Prob68_Three_Sum_BruteForce.py](Prob68_Three_Sum_BruteForce.py) | Triple Loop (Manual Indexing) |
+
 
 
 
