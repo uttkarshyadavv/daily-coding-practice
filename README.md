@@ -76,6 +76,8 @@
 | 72 | Upper Bound using Iterative Binary Search | [Prob72_Upper_Bound_BinarySearch_MethodIterative.py](Prob72_Upper_Bound_BinarySearch_MethodIterative.py) |
 | 73 | Ceil in Sorted Array (Binary Search) | [Prob73_Ceil_in_Sorted_Array_BinarySearch.py](Prob73_Ceil_in_Sorted_Array_BinarySearch.py) |
 | 74 | Floor in Sorted Array | [Prob74\_Floor\_in\_Sorted\_Array\_Iterative.py](./Prob74_Floor_in_Sorted_Array_Iterative.py) |
+| 75  | First and Last Occurrence | [Prob75_First_and_Last_Occurrence_Linear.py](./Prob75_First_and_Last_Occurrence_Linear.py) |
+
 
 
 
