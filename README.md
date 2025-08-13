@@ -74,7 +74,9 @@
 | 70 | Binary Search (Recursive) | [Prob70_Binary_Search_Method2.py](./Prob70_Binary_Search_Method2.py) | Binary Search |
 | 71 | Lower Bound using Binary Search | [Prob71_Lower_Bound_BinarySearch.py](./Prob71_Lower_Bound_BinarySearch.py) | Binary Search | `O(log n)` |
 | 72 | Upper Bound using Iterative Binary Search | [Prob72_Upper_Bound_BinarySearch_MethodIterative.py](Prob72_Upper_Bound_BinarySearch_MethodIterative.py) |
-| 73 | Ceil in Sorted Array (Binary Search) | [Prob72_Ceil_in_Sorted_Array_BinarySearch.py](Prob73_Ceil_in_Sorted_Array_BinarySearch.py) |
+| 73 | Ceil in Sorted Array (Binary Search) | [Prob73_Ceil_in_Sorted_Array_BinarySearch.py](Prob73_Ceil_in_Sorted_Array_BinarySearch.py) |
+| 74          | Floor in Sorted Array | Iterative   | [Prob74\_Floor\_in\_Sorted\_Array\_Iterative.py](./Prob74_Floor_in_Sorted_Array_Iterative.py) |
+
 
 
 
