@@ -78,6 +78,8 @@
 | 74 | Floor in Sorted Array | [Prob74\_Floor\_in\_Sorted\_Array\_Iterative.py](./Prob74_Floor_in_Sorted_Array_Iterative.py) |
 | 75  | First and Last Occurrence | [Prob75_First_and_Last_Occurrence_Linear.py](./Prob75_First_and_Last_Occurrence_Linear.py) |
 | 76  | Last Index ≤ Target (Binary Search) | [Prob76_Last_Index_Less_Equal_Binary.py](./Prob76_Last_Index_Less_Equal_Binary.py) |
+| 77  | First and Last Occurrence (Binary Search) | [Prob77_First_Last_Occurrence_Binary.py](./Prob77_First_Last_Occurrence_Binary.py) |
+
 
 
 
