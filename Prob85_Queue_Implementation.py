@@ -23,5 +23,6 @@ class Queue:
         return self.items[-1]
     def size(self):
         return len(self.items)
+#reversing the direction wouldn't affect queue
 
 
