@@ -8,11 +8,13 @@ class Solution:
                 and lowerDiagonal[row+col]==0
                 and upperDiagonal[n-1+col-row]==0
                 ):
+                # its safe to put queen here as hash table shows me zero
                 board[row]=board[row][:col] + "Q" + board[row][col+1:]
                 leftrow[row]=1
                 lowerDiagonal[row+col]=1
                 upperDiagonal[n-1+col-row]=1
                 self.solve(col+1,board,ans,leftrow,upperDiagonal,lowerDiagonal,n)
+                # its not safe to use queen here as the hash value isn't 0 anymore
                 board[row]=board[row][:col] + "." + board[row][col+1:]
                 leftrow[row]=0
                 lowerDiagonal[row+col]=0
