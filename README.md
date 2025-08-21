@@ -81,7 +81,7 @@
 | 77  | First and Last Occurrence (Binary Search) | [Prob77_First_Last_Occurrence_Binary.py](./Prob77_First_Last_Occurrence_Binary.py) |
 | 78 | Combination sum 3 | [Prob78_Combination_sum_3.py](Prob78_Combination_sum_3.py) |
 | 79 | Combination sum 3 method 2 | [Prob79_Combination_sum_3_method2.py](Prob79_Combination_sum_3_method2.py) |
-| 80 | Letter combination of a phone number | [Prob80_Letter_combination_of_a_phone_number.py](Prob80_Letter_combination_of_a_phone_number.py) |
+| 80 | Letter combination of a phone number | [Prob80_Letter_combination_of_a_phone_number.py](Prob80_Letter_combination_of_a_number.py) |
 | 81 | NQueen | [Prob81_NQueen.py](Prob81_NQueen.py) |
 | 82 | hash NQueen | [Prob82_hash_NQueen.py](Prob82_hash_NQueen.py) |
 | 83 | Rat in Maze | [Prob83_Rat_in_Maze.py](Prob83_Rat_in_Maze.py) |
