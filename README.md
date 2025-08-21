@@ -79,6 +79,22 @@
 | 75  | First and Last Occurrence | [Prob75_First_and_Last_Occurrence_Linear.py](./Prob75_First_and_Last_Occurrence_Linear.py) |
 | 76  | Last Index ≤ Target (Binary Search) | [Prob76_Last_Index_Less_Equal_Binary.py](./Prob76_Last_Index_Less_Equal_Binary.py) |
 | 77  | First and Last Occurrence (Binary Search) | [Prob77_First_Last_Occurrence_Binary.py](./Prob77_First_Last_Occurrence_Binary.py) |
+| 78 | Combination sum 3 | [Prob78_Combination_sum_3.py](Prob78_Combination_sum_3.py) |
+| 79 | Combination sum 3 method 2 | [Prob79_Combination_sum_3_method2.py](Prob79_Combination_sum_3_method2.py) |
+| 80 | Letter combination of a phone number | [Prob80_Letter_combination_of_a_phone_number.py](Prob80_Letter_combination_of_a_phone_number.py) |
+| 81 | NQueen | [Prob81_NQueen.py](Prob81_NQueen.py) |
+| 82 | hash NQueen | [Prob82_hash_NQueen.py](Prob82_hash_NQueen.py) |
+| 83 | Rat in Maze | [Prob83_Rat_in_Maze.py](Prob83_Rat_in_Maze.py) |
+| 84 | Stack implementation | [Prob84_Stack_implementation.py](Prob84_Stack_implementation.py) |
+| 85 | Queue Implementation | [Prob85_Queue_Implementation.py](Prob85_Queue_Implementation.py) |
+| 86 | Deque class | [Prob86_Deque_class.py](Prob86_Deque_class.py) |
+| 87 | Implement Stack Using Queue | [Prob87_Implement_Stack_Using_Queue.py](Prob87_Implement_Stack_Using_Queue.py) |
+| 88 | Queue using Stack | [Prob88_QueueusingStack.py](Prob88_QueueusingStack.py) |
+| 89 | Implementing Stack using Array | [Prob89_Implementing_Stack_using_Array.py](Prob89_Implementing_Stack_using_Array.py) |
+| 90 | Check Valid Parenthesis | [Prob90_Check_Valid_Parenthesis.py](Prob90_Check_Valid_Parenthesis.py) |
+| 91 | Get minimum O(1) | [Prob91_Getminimum_O(1).py](Prob91_Getminimum_O(1).py) |
+| 92 | infix to prefix | [Prob92_infix_to_prefix.py](Prob92_infix_to_prefix.py) |
+
 
 
 
