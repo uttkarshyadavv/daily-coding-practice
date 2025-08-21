@@ -90,7 +90,7 @@
 | 86 | Deque class | [Prob86_Deque_class.py](Prob86_Deque_class.py) |
 | 87 | Implement Stack Using Queue | [Prob87_Implement_Stack_Using_Queue.py](Prob87_Implement_Stack_Using_Queue.py) |
 | 88 | Queue using Stack | [Prob88_QueueusingStack.py](Prob88_QueueusingStack.py) |
-| 89 | Implementing Stack using Array | [Prob89_Implementing_Stack_using_Array.py](Prob89_Implementing_Stack_using_Array.py) |
+| 89 | Implementing Stack using DLL | [Prob89_Implementing_Stack_using_DLL.py](Prob89_Implementing_Stack_using_DLL.py) |
 | 90 | Check Valid Parenthesis | [Prob90_Check_Valid_Parenthesis.py](Prob90_Check_Valid_Parenthesis.py) |
 | 91 | Get minimum O(1) | [Prob91_Getminimum_O(1).py](Prob91_Getminimum_O(1).py) |
 | 92 | infix to prefix | [Prob92_infix_to_prefix.py](Prob92_infix_to_prefix.py) |
