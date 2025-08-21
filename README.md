@@ -94,7 +94,7 @@
 | 90 | Check Valid Parenthesis | [Prob90_Check_Valid_Parenthesis.py](Prob90_Check_Valid_Parenthesis.py) |
 | 91 | Get minimum O(1) | [Prob91_Getminimum_O(1).py](Prob91_Getminimum_O(1).py) |
 | 92 | infix to prefix | [Prob92_infix_to_prefix.py](Prob92_infix_to_prefix.py) |
-| 94 | Postfix to infix | Prob94_Postfix_to_infix.py |
+| 94 | Postfix to infix | [Prob94_Postfix_to_infix.py]|(Prob94_Postfix_to_infix.py) |
 
 
 
