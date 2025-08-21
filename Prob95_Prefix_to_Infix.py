@@ -1,14 +1,14 @@
 class Solution:
-    def postToInfix(self,s):
+    def preToInfix(self,s):
         stack=[]
-        for char in s:
+        for char in s[::-1]:
             # if character is an operand, push it to the stack
             if char.isalnum():
                 stack.append(char)
             else:
                 #Pop two operands
-                operand2= stack.pop()
                 operand1= stack.pop()
+                operand2= stack.pop()
                 #Combine operands with a operator
                 new_exp= f"({operand1}{char}{operand2})"
                 #Push the result back onto the stack
