@@ -8,7 +8,7 @@ class Node:
             self.items.append(value)
             self.mini = value
         else:
-            self.items.append(value)
+            self.items.append(value) 
             if value < self.mini:
                 self.mini = value
         return self.mini
