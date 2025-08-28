@@ -1,3 +1,17 @@
+🚀 Daily Coding Practice
+
+This repository contains my daily problem-solving journey across LeetCode, GeeksforGeeks, and custom practice sets.
+I solve problems in my style (clean, direct, minimal code), covering DSA, algorithms, recursion, sorting, searching, dynamic programming, and more.
+Each problem is stored as a separate Python file, and the full list is indexed here for easy navigation.
+
+📌 Repository Highlights
+
+✅ 100+ problems solved and growing
+✅ Covers Arrays, Strings, Recursion, Sorting, Searching, Stacks, Queues, Linked Lists, Binary Search
+✅ Multiple methods per problem (Brute Force → Optimal)
+✅ Organized, consistently named files
+✅ Direct links to each solution file
+
 | No. | Problem Description                      | File Name                                                                                                    |
 | --- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 1   | Reverse Number                           | [Prob1\_Reverse\_Number.py](Prob1_Reverse_Number.py)                                                         |
@@ -115,3 +129,35 @@
 | 114 | Max from card optimal                    | [Prob114\_Max\_from\_card\_optimal.py](Prob114_Max_from_card_optimal.py)                                     |
 | 115 | Max from card best                       | [Prob115\_Max\_from\_card\_best.py](Prob115_Max_from_card_best.py)                                           |
 | 116 | Assign cookies                           | [Prob116\_Assign\_cookies.py](Prob116_Assign_cookies.py)                                                     |
+
+🛠️ Tech Stack
+
+Language: Python 🐍
+IDE: VS Code
+Version Control: Git & GitHub
+Platform: Problems from LeetCode + GeeksforGeeks + Custom
+
+🎯 Goals
+
+📌 Solve 300+ DSA problems in my own style
+📌 Write Brute Force → Optimal solutions whenever possible
+📌 Keep repo organized & contribution history green ✅
+📌 Use repo as revision notes for interviews
+
+📊 Progress Tracker
+
+🔥 Problems Solved: 116+
+⏳ Ongoing: Daily uploads
+🟢 Status: Active
+
+🤝 Contributing
+This repo is my personal journey, but feel free to ⭐ star it or fork if you want to track your own grind the same way!
+
+🌟 Showcase
+This repo doubles as:
+
+A learning journal 📔
+A revision sheet before interviews 📝
+A GitHub profile booster with consistent contributions 🚀
+
+💡 Tip for recruiters/seniors: Check commit history to see consistent practice.
