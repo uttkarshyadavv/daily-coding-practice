@@ -11,4 +11,4 @@ for i in range(0,len(arr)):
     else:
         remain=weight-currw
         cost=arr[i].value/arr[i].wt*remain
-return finalvalue
+print (finalvalue)
