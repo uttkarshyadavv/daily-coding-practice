@@ -27,7 +27,5 @@ while remaining>0 and len(coins)>0:
             del freq[coins[-1]]
             coins.pop()
 print(used)
-
-
     
 
