@@ -1,6 +1,6 @@
 # DSA Problems Repository
 
-This repo contains 192 DSA problems solved in Python.
+This repository contains 192 DSA problems solved in Python.
 
 | Problem # | Problem Name | Link |
 |-----------|--------------|------|
@@ -35,13 +35,76 @@ This repo contains 192 DSA problems solved in Python.
 | 126 | Jump_Optimal | [Link](Prob126_Jump_Optimal.py) |
 | 127 | minimum_platforms | [Link](Prob127_minimum_platforms.py) |
 | 128 | minimum_platform_no_sorting | [Link](Prob128_minimum_platform_no_sorting.py) |
+| 129 | SearchInsertPosition | [Link](Prob129_SearchInsertPosition.py) |
+| 130 | FirstAndLastOccurrence | [Link](Prob130_FirstAndLastOccurrence.py) |
+| 131 | CountOccurrences | [Link](Prob131_CountOccurrences.py) |
+| 132 | SearchInRotatedArray | [Link](Prob132_SearchInRotatedArray.py) |
+| 133 | LinkedListBasics | [Link](Prob133_LinkedListBasics.py) |
+| 134 | SinglyLinkedListAppend | [Link](Prob134_SinglyLinkedListAppend.py) |
+| 135 | SinglyLinkedListOps | [Link](Prob135_SinglyLinkedListOps.py) |
+| 136 | SinglyLinkedListAppendTraversal | [Link](Prob136_SinglyLinkedListAppendTraversal.py) |
+| 137 | SinglyLinkedListInsert | [Link](Prob137_SinglyLinkedListInsert.py) |
+| 138 | SinglyLinkedListInsertDelete | [Link](Prob138_SinglyLinkedListInsertDelete.py) |
+| 139 | SinglyLinkedListMiddle | [Link](Prob139_SinglyLinkedListMiddle.py) |
 | 13 | Recursion_Tail_Print_Name | [Link](Prob13_Recursion_Tail_Print_Name.py) |
+| 140 | SinglyLinkedListMiddleFastSlow | [Link](Prob140_SinglyLinkedListMiddleFastSlow.py) |
+| 141 | SinglyLinkedListReverseStack | [Link](Prob141_SinglyLinkedListReverseStack.py) |
+| 142 | SinglyLinkedListReversePointers | [Link](Prob142_SinglyLinkedListReversePointers.py) |
+| 143 | SinglyLinkedListCycleDetectionSet | [Link](Prob143_SinglyLinkedListCycleDetectionSet.py) |
+| 144 | SinglyLinkedListCycleDetectionFloyd | [Link](Prob144_SinglyLinkedListCycleDetectionFloyd.py) |
+| 145 | SinglyLinkedListCycleMeetingPoint | [Link](Prob145_SinglyLinkedListCycleMeetingPoint.py) |
+| 146 | SinglyLinkedListCycleStart_Hashing | [Link](Prob146_SinglyLinkedListCycleStart_Hashing.py) |
+| 147 | SinglyLinkedListCycleDetection_Floyd | [Link](Prob147_SinglyLinkedListCycleDetection_Floyd.py) |
+| 148 | SinglyLinkedListCycleLength_Floyd | [Link](Prob148_SinglyLinkedListCycleLength_Floyd.py) |
+| 149 | SinglyLinkedListOddEvenReorder_ListMethod | [Link](Prob149_SinglyLinkedListOddEvenReorder_ListMethod.py) |
 | 14 | Recursion_Print_1_to_N | [Link](Prob14_Recursion_Print_1_to_N.py) |
+| 150 | SinglyLinkedListOddEvenReorder_InPlace | [Link](Prob150_SinglyLinkedListOddEvenReorder_InPlace.py) |
+| 151 | SinglyLinkedListRemoveNthFromEnd_TwoPass | [Link](Prob151_SinglyLinkedListRemoveNthFromEnd_TwoPass.py) |
+| 152 | SinglyLinkedListRemoveNthFromEnd_TwoPointer | [Link](Prob152_SinglyLinkedListRemoveNthFromEnd_TwoPointer.py) |
+| 154 | DoublyLinkedListInsertAtHead_Method | [Link](Prob154_DoublyLinkedListInsertAtHead_Method.py) |
+| 155 | Insert_at_Tail_in_Doubly_Linked_List_Iterative | [Link](Prob155_Insert_at_Tail_in_Doubly_Linked_List_Iterative.py) |
+| 156 | Append_at_Tail_in_Doubly_Linked_List_Iterative | [Link](Prob156_Append_at_Tail_in_Doubly_Linked_List_Iterative.py) |
+| 157 | Insert_at_Position_in_Doubly_Linked_List_Iterative | [Link](Prob157_Insert_at_Position_in_Doubly_Linked_List_Iterative.py) |
+| 158 | Reverse_Doubly_Linked_List_Stack | [Link](Prob158_Reverse_Doubly_Linked_List_Stack.py) |
+| 159 | Reverse_Doubly_Linked_List_Iterative | [Link](Prob159_Reverse_Doubly_Linked_List_Iterative.py) |
 | 15 | Recursion_Print_X_N_Times | [Link](Prob15_Recursion_Print_X_N_Times.py) |
+| 160 | Pair_Sum_in_Doubly_Linked_List | [Link](Prob160_Pair_Sum_in_Doubly_Linked_List.py) |
+| 161 | Pair_Sum_in_Doubly_Linked_List_Hashing | [Link](Prob161_Pair_Sum_in_Doubly_Linked_List_Hashing.py) |
+| 162 | Pair_Sum_in_Doubly_Linked_List_TwoPointer | [Link](Prob162_Pair_Sum_in_Doubly_Linked_List_TwoPointer.py) |
+| 163 | Remove_Duplicates_in_Doubly_Linked_List | [Link](Prob163_Remove_Duplicates_in_Doubly_Linked_List.py) |
+| 164 | Binary_Conversion_Manual_Reversing | [Link](Prob164_Binary_Conversion_Manual_Reversing.py) |
+| 165 | BinaryToDecimal_Method | [Link](Prob165_BinaryToDecimal_Method.py) |
+| 166 | OnesComplement_Method | [Link](Prob166_OnesComplement_Method.py) |
+| 167 | TwosComplement_Method | [Link](Prob167_TwosComplement_Method.py) |
+| 168 | CheckSetBitShiftLeft_Method | [Link](Prob168_CheckSetBitShiftLeft_Method.py) |
+| 169 | CheckSetBitShiftRight_Method | [Link](Prob169_CheckSetBitShiftRight_Method.py) |
 | 16 | Recursion_Print_1_to_N_Method2 | [Link](Prob16_Recursion_Print_1_to_N_Method2.py) |
 | 16 | Recursion_Print_1_to_N_Tail | [Link](Prob16_Recursion_Print_1_to_N_Tail.py) |
+| 170 | SetBit_Method | [Link](Prob170_SetBit_Method.py) |
+| 171 | ClearBit_Method | [Link](Prob171_ClearBit_Method.py) |
+| 172 | ToggleBit_Method | [Link](Prob172_ToggleBit_Method.py) |
+| 173 | RemoveLastSetBit_Method | [Link](Prob173_RemoveLastSetBit_Method.py) |
+| 174 | CheckPowerOfTwo_Method | [Link](Prob174_CheckPowerOfTwo_Method.py) |
+| 175 | SwapNumbersXOR_Method | [Link](Prob175_SwapNumbersXOR_Method.py) |
+| 176 | CountDifferentBits_Method | [Link](Prob176_CountDifferentBits_Method.py) |
+| 177 | FindSingleNumberXOR_Method | [Link](Prob177_FindSingleNumberXOR_Method.py) |
+| 178 | GenerateAllSubsetsBitmask_Method | [Link](Prob178_GenerateAllSubsetsBitmask_Method.py) |
+| 179 | SubsetsWithTargetSum_Method | [Link](Prob179_SubsetsWithTargetSum_Method.py) |
 | 17 | Recursion_Print_N_to_1 | [Link](Prob17_Recursion_Print_N_to_1.py) |
+| 180 | AllSubsetsRecursion_Method | [Link](Prob180_AllSubsetsRecursion_Method.py) |
+| 181 | SubsetsWithTargetSum_Backtracking_Method | [Link](Prob181_SubsetsWithTargetSum_Backtracking_Method.py) |
+| 182 | SubsetsTargetSumBoolean_Backtracking_Method | [Link](Prob182_SubsetsTargetSumBoolean_Backtracking_Method.py) |
+| 183 | CountSubsetsTargetSum_Method | [Link](Prob183_CountSubsetsTargetSum_Method.py) |
+| 184 | BinaryStringsNoConsecutiveOnes_Method | [Link](Prob184_BinaryStringsNoConsecutiveOnes_Method.py) |
+| 185 | GenerateBinaryStringsFlag_Method | [Link](Prob185_GenerateBinaryStringsFlag_Method.py) |
+| 186 | GenerateParentheses | [Link](Prob186_GenerateParentheses.py) |
+| 187 | BracketCombinations | [Link](Prob187_BracketCombinations.py) |
+| 188 | SubsetSumCombinations | [Link](Prob188_SubsetSumCombinations.py) |
+| 189 | CombinationSumII | [Link](Prob189_CombinationSumII.py) |
 | 18 | Recursion_Sum_Of_Cubes | [Link](Prob18_Recursion_Sum_Of_Cubes.py) |
+| 190 | CombinationSumII_method2 | [Link](Prob190_CombinationSumII_method2.py) |
+| 191 | SubsetSums | [Link](Prob191_SubsetSums.py) |
+| 192 | SubsetSums_method2 | [Link](Prob192_SubsetSums_method2.py) |
 | 19 | Sum_Using_Recursion | [Link](Prob19_Sum_Using_Recursion.py) |
 | 1 | Reverse_Number | [Link](Prob1_Reverse_Number.py) |
 | 20 | Factorial_Using_Recursion | [Link](Prob20_Factorial_Using_Recursion.py) |
