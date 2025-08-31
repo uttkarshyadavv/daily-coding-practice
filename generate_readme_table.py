@@ -1,26 +1,20 @@
 import os
-import re
 
-PROBLEM_DIR = '.'  # Update if problems are in a subfolder
+# Path to your repo folder containing problems
+folder_path = "path/to/your/problems/folder"
 
-pattern = re.compile(r'Prob(\d+)_([^.]+)\.py')
+files = sorted(os.listdir(folder_path))  # sort alphabetically
+table_lines = ["| # | Problem Title | Link |", "|---|---------------|------|"]
 
-problems = []
+for idx, file in enumerate(files, 1):
+    if file.endswith(".py"):  # only include Python files
+        title = file.replace(".py", "").replace("_", " ").split(" ", 1)[-1]  # get readable title
+        link = f"[Link]({file})"  # relative link
+        table_lines.append(f"| {idx} | {title} | {link} |")
 
-for filename in os.listdir(PROBLEM_DIR):
-    match = pattern.match(filename)
-    if match:
-        num = int(match.group(1))  # Convert to integer for proper sorting
-        name = match.group(2).replace('_', ' ')
-        link = f'[{filename}]({filename})'
-        problems.append((num, name, link))
+# Save table to README
+with open("README.md", "w") as f:
+    f.write("# DSA Problems Repository\n\n")
+    f.write("\n".join(table_lines))
 
-# Sort by problem number
-problems.sort(key=lambda x: x[0])
-
-# Markdown table header
-header = '| No. | Problem Description | File Name |\n|-----|--------------------|-----------|'
-rows = [f'| {num} | {name} | {link} |' for num, name, link in problems]
-table = header + '\n' + '\n'.join(rows)
-
-print(table)
+print("README.md generated successfully!")
