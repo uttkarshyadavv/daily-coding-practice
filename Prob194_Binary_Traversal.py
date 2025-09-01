@@ -1,5 +1,6 @@
 #Depth First 
 #preorder
+#root -> left -> right
 def preorder(node):
     if node==None:
         return
