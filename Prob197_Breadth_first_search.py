@@ -6,7 +6,7 @@ def levelorder(node):
     queue=deque([])
     queue.append(node)
     while len(queue)!=0:
-        e=queue.popleft()
+        e=queue.popleft() #pop should be done from left
         result.append(e.data)
         if e.left is not None:
             queue.append(e.left)
