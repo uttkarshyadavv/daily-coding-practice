@@ -1,4 +1,6 @@
 def solution(node):
+    if node is None:
+        return 0
     Lh=solution(node.left)
     Rh=solution(node.right)
     diff=abs(Lh-Rh)
