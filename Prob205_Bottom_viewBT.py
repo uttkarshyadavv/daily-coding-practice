@@ -1,3 +1,4 @@
+#Left side is given priority
 from collections import deque
 def bottomView(self,root):
     if not root:
