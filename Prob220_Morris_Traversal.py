@@ -1,4 +1,4 @@
-#Inorder/Preorder
+#Inorder
 #Good for Space Complexity
 class Solution:
     def inorderTraversal(self,root):
