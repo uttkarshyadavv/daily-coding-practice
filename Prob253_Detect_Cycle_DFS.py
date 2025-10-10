@@ -14,6 +14,7 @@ def Detect(V,edges):
             elif i!= parent:
                 return True
         return False
+    #For Broke Graph
     for i in range(V):
         if not visited[i]:
             if DFS(i,-1):
