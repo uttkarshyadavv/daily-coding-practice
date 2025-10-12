@@ -1,7 +1,7 @@
 #Nearest Zero
 from collections import deque
 from copy import deepcopy
-def Near(mat,r,c):
+def Near(mat):
     image=deepcopy(mat)
     rows=len(image)
     column=len(image[0])
