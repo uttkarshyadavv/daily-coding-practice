@@ -17,11 +17,11 @@ def Near(mat,r,c):
         r,c,d=queue.popleft()
         distance[r][c]=d
         for x,y in [(-1,0),(0,-1),(1,0),(0,1)]:
-            new_i,new_j= i+x, j+y
-            if visited[new_i][new_j]==1:
+            new_r,new_c= r+x, c+y
+            if visited[new_r][new_c]==1:
                 continue
-            if new_i<0 or new_i>rows or new_j<0 or new_j>column:
+            if new_r<0 or new_r>rows or new_c<0 or new_c>column:
                 continue
-            queue.append([new_i,new_j,d+1])
-            visited[new_i][new_j]=1
+            queue.append([new_r,new_c,d+1])
+            visited[new_r][new_c]=1
     return distance
