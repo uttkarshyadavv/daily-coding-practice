@@ -1,6 +1,6 @@
 def dfs(mat,r,c,base_r,base_c,shape,visited,rows,column):
     visited[r][c]=1
-    shape.append=(r-base_r,c-base_c,) #Tuple Append
+    shape.append((r-base_r,c-base_c,)) #Tuple Append
     for x,y in [(-1,0),(0,-1),(1,0),(0,1)]:
         new_i,new_j=r+x, c+y
         if new_i<0 or new_j<0 or new_i>=rows or new_j>=column:
