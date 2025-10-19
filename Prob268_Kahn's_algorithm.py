@@ -7,7 +7,6 @@ def kahn(graph,V,edge):
     for u,v in edge:
         indegrees[v]+=1
         adj_list[u].append(v)
-        adj_list[v].append(u)
     queue=deque()
     result=[]
     for i in range(V):
@@ -16,7 +15,7 @@ def kahn(graph,V,edge):
     while len(queue)!=0:
         current_node=queue.popleft()
         result.append(current_node)
-        for adjNode in adj_list[adjNode]:
+        for adjNode in adj_list[current_node]:
             indegrees[adjNode]-=1
             if indegrees[adjNode]==0:
                 queue.append(adjNode)
