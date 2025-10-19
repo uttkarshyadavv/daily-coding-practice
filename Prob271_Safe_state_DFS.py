@@ -6,7 +6,7 @@ def dfs(current_node,adj_list,vis,path_vis,is_safe):
             ans= dfs(adjNode,adj_list,vis,path_vis,is_safe)
             if ans==False:
                 return False
-            elif path_vis[adjNode]==1:
+        elif path_vis[adjNode]==1: #If I find a neighbor (adjNode) that’s already in the current recursion path, I’ve found a cycle.
                 return False
     is_safe[current_node]=1
     path_vis[current_node]=0
