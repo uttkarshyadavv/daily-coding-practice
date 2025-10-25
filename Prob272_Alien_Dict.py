@@ -13,5 +13,5 @@ while i < a and j < b:
     if i == a - 1:
         i = 0
         j += 1
-
+        
 print(result)
