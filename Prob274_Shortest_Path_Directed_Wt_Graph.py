@@ -26,7 +26,7 @@ def shortest(V,E,edges):
             if new_d<distance[adjNode]:
                 distance[adjNode]=new_d
     for i in range(V):
-        if distance[i]==float("-inf"):
+        if distance[i]==float("inf"):
             distance[i]=-1
     return distance
 
