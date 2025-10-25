@@ -13,6 +13,3 @@ def shortest(adj,src):
                 distance[node]= dist_trav+1
                 queue.append([adjNode,dist_trav+1])
     return distance
-
-
-    
