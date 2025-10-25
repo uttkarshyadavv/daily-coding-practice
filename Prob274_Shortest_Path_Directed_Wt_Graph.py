@@ -1,4 +1,6 @@
 #New Algo
+#Step1= TopoSort on graph
+#Step2= Take Out the node and relax the edges
 def dfs(node,stack,visited,adj_list):
     visited[node]=1
     for adjNode in adj_list[node]:
